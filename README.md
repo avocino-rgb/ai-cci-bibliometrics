@@ -2,7 +2,7 @@
 
 Code and shareable data for
 
-> Vocino, A. (2026). Mapping Artificial Intelligence Research in the Cultural and Creative Industries: A Systematic Bibliometric Review. *Technovation*. https://doi.org/XXXX
+> Vocino, A. (2026). Mapping Artificial Intelligence Research in the Cultural and Creative Industries: A Systematic Bibliometric Review. *Technovation*, 103551. https://doi.org/10.1016/j.technovation.2026.103551
 
 The pipeline rebuilds the 135-paper dataset from the Scopus and Web of Science exports. It then reproduces the performance analysis, the five thematic clusters, bibliographic coupling, co-citation centrality and the abstract term analysis reported in the paper. Every script ends by checking its results against the published figures.
 
