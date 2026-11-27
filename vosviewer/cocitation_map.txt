@@ -1,0 +1,37 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>
+83	"aguiar l, 2018, inform syst res, v29, p656, doi 10.1287/isre.2018.0778"	-1.29	-0.4941	2	3	3	3
+198	"amankwah-amoah j, 2024, int j inform manage, v79, doi 10.1016/j.ijinfomgt.2024.102759"	-0.3998	-0.2185	2	12	4	4
+225	"anantrasirichai n, 2022, artif intell rev, v55, p589, doi 10.1007/s10462-021-10039-7"	0.0389	-0.1574	2	21	6	8
+617	"bellaiche l, 2023, cogn res, v8, doi 10.1186/s41235-023-00499-6"	-0.0812	0.2365	1	17	5	6
+631	"bengesi s, 2024, ieee access, v12, p69812, doi 10.1109/access.2024.3397775"	0.8335	-0.089	4	8	2	3
+865	"brown tb, 2020, adv neur in, v33"	0.2906	-0.6509	3	4	3	3
+994	"cao yh, 2023, arxiv, doi arxiv:2303.04226 10.48550/arxiv.2303.04226"	0.6125	-0.4868	3	6	2	3
+1082	"chamberlain r, 2018, psychol aesthet crea, v12, p177, doi 10.1037/aca0000136"	-0.132	0.3842	1	15	4	4
+1320	"colton s, 2012, front artif intel ap, v242, p21, doi 10.3233/978-1-61499-098-7-21"	0.338	-0.0341	3	12	3	3
+1397	"croitoru fa, 2023, ieee t pattern anal, v45, p10850, doi 10.1109/tpami.2023.3261988"	1.0138	0.293	4	5	2	3
+1678	"doshi ar, 2024, sci adv, v10, doi 10.1126/sciadv.adn5290"	-0.6522	-0.4894	2	7	3	3
+1732	"dwivedi yk, 2021, int j inform manage, v57, doi 10.1016/j.ijinfomgt.2019.08.002"	0.6769	-0.2671	5	12	5	5
+1733	"dwivedi yk, 2023, int j inform manage, v71, doi 10.1016/j.ijinfomgt.2023.102642"	-1.1561	0.1115	1	6	3	4
+1810	"epstein z, 2020, iscience, v23, doi 10.1016/j.isci.2020.101515"	0.2379	0.5832	1	13	3	3
+1812	"epstein z, 2023, science, v380, p1110, doi 10.1126/science.adh4451"	-0.3013	-0.4895	2	7	3	3
+1926	"feuerriegel s, 2024, bus inform syst eng+, v66, p111, doi 10.1007/s12599-023-00834-7"	0.5384	-0.3015	3	7	2	3
+2004	"frey cb, 2017, technol forecast soc, v114, p254, doi 10.1016/j.techfore.2016.08.019"	0.7605	-0.1049	4	9	4	5
+2058	"gangadharbatla h, 2022, empir stud arts, v40, p125, doi 10.1177/0276237421994697"	-0.0749	0.5771	1	14	3	3
+2192	"goodfellow ij, 2014, adv neur in, v27, p2672"	-0.0774	-0.7254	2	6	3	3
+2321	"haenlein m, 2019, calif manage rev, v61, p5, doi 10.1177/0008125619864925"	1.0319	-0.3498	5	2	2	3
+2534	"hong jw, 2019, acm t multim comput, v15, doi 10.1145/3326337"	-0.203	0.6236	1	14	4	4
+2535	"hong jw, 2021, new media soc, v23, p1920, doi 10.1177/1461444820925798"	0.1427	0.356	5	12	3	3
+2771	"jiang h, 2023, proceedings of the 2023 aaai/acm conference on ai, ethics, and society, aies 2023, p363, doi 10.1145/3600211.3604681"	-0.4885	0.581	1	12	3	3
+3155	"latikka r, 2023, poetics, v101, doi 10.1016/j.poetic.2023.101839"	-0.7385	0.5668	1	13	5	5
+3195	"lee hk, 2022, media cult soc, v44, p601, doi 10.1177/01634437221077009"	0.6236	-0.0128	4	13	4	6
+3322	"lima g, 2021, front robot ai, v8, doi 10.3389/frobt.2021.719944"	-0.3987	0.6983	1	13	3	3
+3622	"mccormack j, 2023, lect notes comput sc, v13988, p196, doi 10.1007/978-3-031-29956-8\_13"	0.4399	0.3369	3	11	3	3
+3718	"millet k, 2023, comput hum behav, v143, doi 10.1016/j.chb.2023.107707"	-0.4251	0.5598	1	15	4	4
+4015	"oppenlaender jonas, 2022, academic mindtrek 2022: 25th international academic mindtrek conference, p192, doi 10.1145/3569219.3569352"	0.5587	0.303	4	14	2	3
+4144	"peeters mmm, 2021, ai soc, v36, p217, doi 10.1007/s00146-020-01005-y"	0.903	0.3556	4	7	3	3
+4223	"ploin a., 2022, ai arts machine lear"	-0.2382	-0.4658	2	7	3	3
+4606	"samuelson p, 2023, science, v381, p158, doi 10.1126/science.adi0656"	-0.6508	-0.7523	2	5	3	4
+4798	"shumakova ni, 2023, journal of digital technologies and law, v1, p880, doi 10.21202/jdtl.2023.38 10.21202/jdtl.2023.38, doi 10.21202/jdtl.2023.38"	-0.8634	0.6529	1	6	3	3
+5355	"vaswani a, 2017, adv neur in, v30"	0.3447	-0.592	3	10	6	6
+5373	"venkatesh v, 2012, mis quart, v36, p157"	-0.0512	0.1142	5	13	2	3
+5444	"waldfogel j, 2017, j econ perspect, v31, p195, doi 10.1257/jep.31.3.195"	-1.1632	-0.6524	2	3	3	3

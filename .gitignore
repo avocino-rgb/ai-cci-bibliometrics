@@ -1,0 +1,18 @@
+# Licensed database exports and anything holding full records
+data-raw/
+data-private/
+*.rds
+*.RData
+*.Rdata
+*.bib
+*.ris
+Scopus*.csv
+WoS*.txt
+vosviewer_input.txt
+
+# R and OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+~$*

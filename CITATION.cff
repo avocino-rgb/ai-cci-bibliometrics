@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "Code and data for: Mapping Artificial Intelligence Research in the Cultural and Creative Industries"
+authors:
+  - family-names: Vocino
+    given-names: Andrea
+    affiliation: "Deakin Business School, Deakin University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Mapping Artificial Intelligence Research in the Cultural and Creative Industries: A Systematic Bibliometric Review"
+  authors:
+    - family-names: Vocino
+      given-names: Andrea
+  journal: Technovation
+  year: 2026
+  # doi: add the article DOI here

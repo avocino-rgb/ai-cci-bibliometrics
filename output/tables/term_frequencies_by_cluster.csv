@@ -1,0 +1,101 @@
+"Cluster_ID","Cluster_Name","Rank","Term","Frequency"
+1,"Technology & Innovation",1,"creative",52
+1,"Technology & Innovation",2,"design",32
+1,"Technology & Innovation",3,"generative",32
+1,"Technology & Innovation",4,"fashion",31
+1,"Technology & Innovation",5,"ethical",29
+1,"Technology & Innovation",6,"industries",29
+1,"Technology & Innovation",7,"cultural",27
+1,"Technology & Innovation",8,"digital",26
+1,"Technology & Innovation",9,"technology",23
+1,"Technology & Innovation",10,"development",22
+1,"Technology & Innovation",11,"artistic",20
+1,"Technology & Innovation",12,"data",20
+1,"Technology & Innovation",13,"future",20
+1,"Technology & Innovation",14,"genai",20
+1,"Technology & Innovation",15,"industry",20
+1,"Technology & Innovation",16,"learning",20
+1,"Technology & Innovation",17,"technologies",20
+1,"Technology & Innovation",18,"potential",19
+1,"Technology & Innovation",19,"technological",19
+1,"Technology & Innovation",20,"challenges",18
+2,"Art & Digital Creativity",1,"creative",135
+2,"Art & Digital Creativity",2,"art",102
+2,"Art & Digital Creativity",3,"digital",87
+2,"Art & Digital Creativity",4,"cultural",79
+2,"Art & Digital Creativity",5,"analysis",62
+2,"Art & Digital Creativity",6,"content",51
+2,"Art & Digital Creativity",7,"industries",50
+2,"Art & Digital Creativity",8,"ethical",48
+2,"Art & Digital Creativity",9,"data",46
+2,"Art & Digital Creativity",10,"artistic",45
+2,"Art & Digital Creativity",11,"generative",45
+2,"Art & Digital Creativity",12,"production",45
+2,"Art & Digital Creativity",13,"legal",43
+2,"Art & Digital Creativity",14,"challenges",42
+2,"Art & Digital Creativity",15,"copyright",42
+2,"Art & Digital Creativity",16,"model",40
+2,"Art & Digital Creativity",17,"rights",40
+2,"Art & Digital Creativity",18,"music",39
+2,"Art & Digital Creativity",19,"aigenerated",38
+2,"Art & Digital Creativity",20,"creativity",38
+3,"Creative Industries Practice",1,"creative",41
+3,"Creative Industries Practice",2,"music",35
+3,"Creative Industries Practice",3,"industry",33
+3,"Creative Industries Practice",4,"new",29
+3,"Creative Industries Practice",5,"cultural",28
+3,"Creative Industries Practice",6,"ancient",20
+3,"Creative Industries Practice",7,"technologies",20
+3,"Creative Industries Practice",8,"ethical",18
+3,"Creative Industries Practice",9,"digital",17
+3,"Creative Industries Practice",10,"industries",17
+3,"Creative Industries Practice",11,"technology",17
+3,"Creative Industries Practice",12,"creativity",14
+3,"Creative Industries Practice",13,"potential",14
+3,"Creative Industries Practice",14,"challenges",13
+3,"Creative Industries Practice",15,"development",13
+3,"Creative Industries Practice",16,"generative",13
+3,"Creative Industries Practice",17,"rights",13
+3,"Creative Industries Practice",18,"work",13
+3,"Creative Industries Practice",19,"human",12
+3,"Creative Industries Practice",20,"knowledge",12
+4,"Legal & IP",1,"creative",16
+4,"Legal & IP",2,"data",16
+4,"Legal & IP",3,"cloud",10
+4,"Legal & IP",4,"industry",9
+4,"Legal & IP",5,"rights",9
+4,"Legal & IP",6,"copyright",8
+4,"Legal & IP",7,"intellectual",8
+4,"Legal & IP",8,"property",8
+4,"Legal & IP",9,"works",8
+4,"Legal & IP",10,"computing",7
+4,"Legal & IP",11,"legal",7
+4,"Legal & IP",12,"development",6
+4,"Legal & IP",13,"section",6
+4,"Legal & IP",14,"technology",6
+4,"Legal & IP",15,"adoption",5
+4,"Legal & IP",16,"law",5
+4,"Legal & IP",17,"many",5
+4,"Legal & IP",18,"market",5
+4,"Legal & IP",19,"analysis",4
+4,"Legal & IP",20,"content",4
+5,"Cultural Heritage",1,"digital",10
+5,"Cultural Heritage",2,"platforms",9
+5,"Cultural Heritage",3,"cultural",5
+5,"Cultural Heritage",4,"culture",3
+5,"Cultural Heritage",5,"google",3
+5,"Cultural Heritage",6,"heritage",3
+5,"Cultural Heritage",7,"innovation",3
+5,"Cultural Heritage",8,"value",3
+5,"Cultural Heritage",9,"arts",2
+5,"Cultural Heritage",10,"chains",2
+5,"Cultural Heritage",11,"create",2
+5,"Cultural Heritage",12,"development",2
+5,"Cultural Heritage",13,"economic",2
+5,"Cultural Heritage",14,"experience",2
+5,"Cultural Heritage",15,"knowledge",2
+5,"Cultural Heritage",16,"role",2
+5,"Cultural Heritage",17,"sector",2
+5,"Cultural Heritage",18,"social",2
+5,"Cultural Heritage",19,"strategic",2
+5,"Cultural Heritage",20,"tradition",2

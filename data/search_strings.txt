@@ -1,0 +1,12 @@
+Search strings (Supplementary Appendix A)
+Searches run on 6 October 2025.
+The queries cover 2010-2025. The exported sets were limited to 2014-2025
+(see Section 3.2 of the paper), giving 115 Scopus and 87 Web of Science records.
+
+Scopus (Advanced search)
+------------------------
+TITLE-ABS-KEY(("artificial intelligence" OR "generative AI" OR "machine learning" OR "large language model*" OR "creative AI" OR "creative machine*" OR "AI-generated" OR "AI-assisted" OR "human-AI collaboration") AND (creativ* OR "authorship" OR "creative labor" OR "aesthetic*" OR "identity regulation" OR "reflexivity" OR "organizational aesthetics" OR "aesthetic knowing") AND ("cultural industr*" OR "creative industr*" OR "art market*" OR "music industr*" OR "fashion industr*" OR "design industr*" OR "media industr*" OR "visual art*") AND ("management" OR "organization*" OR "business model*" OR "intellectual property" OR "ethic*" OR "policy" OR "professional identity" OR "value creation"))AND DOCTYPE(ar OR re)AND PUBYEAR > 2009 AND PUBYEAR < 2026
+
+Web of Science Core Collection (Advanced search)
+-----------------------------------------------
+TS=(("artificial intelligence" OR "generative AI" OR "machine learning" OR "large language model*" OR "creative AI" OR "creative machine*" OR "AI-generated" OR "AI-assisted" OR "human-AI collaboration") AND (creativ* OR "authorship" OR "creative labor" OR "aesthetic*" OR "identity regulation" OR "reflexivity" OR "organizational aesthetics" OR "aesthetic knowing") AND ("cultural industr*" OR "creative industr*" OR "art market*" OR "music industr*" OR "fashion industr*" OR "design industr*" OR "media industr*" OR "visual art*") AND ("management" OR "organization*" OR "business model*" OR "intellectual property" OR "ethic*" OR "policy" OR "professional identity" OR "value creation"))AND(DT=Article OR DT=Review) AND PY=2010-2025
